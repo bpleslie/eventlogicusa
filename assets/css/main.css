@@ -3760,6 +3760,8 @@
 
 	}
 
+/* custom styles */
+
 .logo {
 	display: block;
 	margin: 5px 0px 0px 10px;
@@ -3789,3 +3791,7 @@
 	height: 100%;
 }
 
+#mc_embed_signup {
+	background: transparent;
+	width:100%;
+}
