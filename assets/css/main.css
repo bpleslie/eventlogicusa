@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
 
 /*
 	Alpha by HTML5 UP
@@ -3795,6 +3795,9 @@
 	background: transparent;
 	width:100%;
 }
+	#mc_embed_signup label {
+		display: none !important;
+	}
 
 .staffing {
 	background-image: url("images/overlay.png"), url("../../images/staffing-bg.jpg") !important;
